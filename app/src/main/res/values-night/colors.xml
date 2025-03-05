@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#121212</color>  <!-- Dark Background -->
+    <color name="text">#FFFFFF</color>  <!-- White Text -->
+    <color name="button">#333333</color>  <!-- Dark Gray Buttons -->
+    <color name="buttonText">#FFFFFF</color>  <!-- White Text on Buttons -->
+    <color name="buttonOperator">#FF9800</color>  <!-- Orange for Operators -->
+</resources>

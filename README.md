@@ -11,7 +11,11 @@ A basic calculator built with **Java** in **Android Studio**, featuring a clean 
 ## 🚀 Tech Stack  
 - **Java** (Core Logic)  
 - **Android Studio** (Development)  
-- **Material Components** (UI Enhancements)  
+- **Material Components** (UI Enhancements)
+
+
+## Screensort 
+![Image](https://github.com/user-attachments/assets/15fab564-d562-4ff1-8b96-41bddd21c000)
 
 
   
